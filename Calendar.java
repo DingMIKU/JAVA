@@ -1,5 +1,4 @@
-package com.my;
-import  java.util.Scanner;
+import  java.util.Scanner;//2021年第5周作业
 public class Calendar {
     public static void main(String[] args)
     {
